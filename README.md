@@ -3,15 +3,10 @@
 
 ### how to run
 
-
-
-#### frontend
-npm install
-npm run
-
-#### backend 
-Please check the backend readme
-
+Clone the repository from GitHub.
+Navigate to the project directory and install dependencies using npm install.
+Start the development server using npm start.
+Access the dashboard in your web browser at http://localhost:3000.
 
 
 ## Contributors
