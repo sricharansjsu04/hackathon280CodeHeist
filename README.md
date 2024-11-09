@@ -1,5 +1,39 @@
 # Macroeconomic Researcher Food Security Time Series and Large Language Chat GPT Dashboard
 
+
+### how to run
+
+
+
+#### frontend
+npm install
+npm run
+
+#### backend 
+Please check the backend readme
+
+
+
+## Contributors
+
+### Sri Charan Reddy Mallu (017419779)
+
+- Developed the backend integration with the frontend, ensuring  communication between the UI and data services.
+- Worked  on chart generation, providing  visualizations for the macroeconomic, agricultural, and debt indicators.
+- Implemented backend services
+
+### Siva Vardhineedi (016835312)
+
+- Developed the Retrieval-Augmented Generation (RAG) system, which integrates FAISS vector search to retrieve relevant information efficiently.
+- Worked on designing the data retrieval pipeline to ensure that the LLM can answer complex user queries accurately based on available datasets.
+- Created data indexing processes that allow for real-time query responses, thereby improving the performance of the Co-Pilot Chat Interface.
+
+### Mahek Virani (017446936)
+
+- Developed the frontend of the dashboard
+- Implemented interactive elements, including sliders and dropdowns, for visual exploration of macroeconomic and agricultural data.
+- Worked on the chat interface design, ensuring that it integrates well with the backend LLM.
+
 ## Introduction
 
 This dashboard provides an interactive tool for researchers focusing on food security and macroeconomic indicators. It integrates time series data and large language model (LLM) capabilities to analyze trends in GDP, agricultural output, debt, imports, and other critical indicators related to food security. Leveraging data from sources like the FAO and World Bank, the dashboard serves as a comprehensive resource for examining the economic and agricultural factors impacting global food security.
@@ -93,6 +127,9 @@ The "Co-Pilot" section integrates a large language model (LLM) to assist users w
 2. **Data-Driven Responses**: The chat interface draws on the dashboard’s data, allowing for data-driven answers that enhance understanding.
 
 [Screenshot 2024-11-08 at 4 46 59 PM](https://github.com/user-attachments/assets/ea87f86a-a4cc-49f5-b61e-d77142ad5bdd)
+
+
+
 
 
 ## Conclusion
