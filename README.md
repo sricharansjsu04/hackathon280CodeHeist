@@ -37,7 +37,7 @@ This dashboard provides an interactive tool for researchers focusing on food sec
 ![Screenshot 2024-11-08 at 4 09 28 PM](https://github.com/user-attachments/assets/1c9d7807-058a-44fc-b650-86c526c0617c)
 
 ### Dashboard
-![Dashboard](public/images/dashboard.png)
+![Dashboard](frontend/public/images/dashboard.png)
 
 
 
