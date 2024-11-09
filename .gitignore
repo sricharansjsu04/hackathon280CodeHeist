@@ -1,0 +1,6 @@
+frontend/node_modules
+backend/.env
+backend/CMPE280_DataSources_20241107_Hackathon
+backend/rag
+backend/venv
+.DS_Store

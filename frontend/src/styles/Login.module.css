@@ -1,0 +1,103 @@
+/* Login.module.css */
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-image: url('background.jpeg');
+  /* Path to image in public folder */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.loginForm {
+  width: 100%;
+  max-width: 400px;
+  padding: 2rem;
+  background-color: rgba(255, 255, 255, 0.9);
+  /* Slightly transparent white background */
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.headerLogin {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.headerLogin h1 {
+  font-size: 2rem;
+  color: #4a90e2;
+  font-weight: bold;
+  margin: 0;
+}
+
+.login header h2 {
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 15px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.formElements {
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.formElements label h4 {
+  font-size: 1rem;
+  color: #555;
+  margin-bottom: 5px;
+}
+
+.formElements input[type="email"],
+.formElements input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 1rem;
+  transition: border 0.3s, box-shadow 0.3s;
+}
+
+.formElements input[type="email"]:focus,
+.formElements input[type="password"]:focus {
+  border-color: #4a90e2;
+  box-shadow: 0 0 8px rgba(74, 144, 226, 0.2);
+  outline: none;
+}
+
+.buttonLogin {
+  width: 100%;
+  padding: 12px;
+  background-color: #4a90e2;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+.buttonLogin:hover {
+  background-color: #3b7ac4;
+  box-shadow: 0 4px 10px rgba(74, 144, 226, 0.3);
+}
