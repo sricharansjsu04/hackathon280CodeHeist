@@ -126,7 +126,7 @@ The "Co-Pilot" section integrates a large language model (LLM) to assist users w
 1. **Interactive Q&A**: Users can interact with the LLM to gain insights on complex topics, such as the impact of GDP on food imports or the significance of debt indicators for food security.
 2. **Data-Driven Responses**: The chat interface draws on the dashboard’s data, allowing for data-driven answers that enhance understanding.
 
-[Screenshot 2024-11-08 at 4 46 59 PM](https://github.com/user-attachments/assets/ea87f86a-a4cc-49f5-b61e-d77142ad5bdd)
+![Screenshot 2024-11-08 at 4 46 59 PM](https://github.com/user-attachments/assets/ea87f86a-a4cc-49f5-b61e-d77142ad5bdd)
 
 
 
