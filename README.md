@@ -46,7 +46,7 @@ This dashboard provides an interactive tool for researchers focusing on food sec
 The "Macroeconomic" section of the dashboard presents key economic indicators, including GDP growth rate, current GDP in USD, and the balance of foreign direct investment (FDI). These indicators help researchers understand the economic context of food security by revealing trends in economic growth and investment flow.
 
 ### Macroeconomic graphs (Drag option and slider)
-![Screenshot 2024-11-08 at 4 10 42 PM](https://github.com/user-attachments/assets/4f4d64e4-4bd5-4de5-a935-a49f2c710716)
+![GDP](frontend/public/images/gdp.png)
 
 
 ### Key Features:
@@ -55,14 +55,14 @@ The "Macroeconomic" section of the dashboard presents key economic indicators, i
 
 
 ###  FDI analysis:
-![Screenshot 2024-11-08 at 4 13 45 PM](https://github.com/user-attachments/assets/400150df-9de6-4a19-9fcb-7ddc952fffca)
+![FDI](frontend/public/images/fdi.png)
 
 
 ## Agricultural Indicators
 
 The "Agricultural" section focuses on indicators that are directly tied to food production and sustainability. This includes metrics such as agricultural contribution to GDP, fertilizer consumption, and forestry activities. By examining these trends, users can assess the health of the agricultural sector and its capacity to sustain food production.
 
-![Screenshot 2024-11-08 at 4 15 27 PM](https://github.com/user-attachments/assets/178976b3-22dc-4dfb-ad67-7cb835c7b5a8)
+![agriculture](frontend/public/images/agriculture.png)
 
 
 ### Key Features:
@@ -70,13 +70,13 @@ The "Agricultural" section focuses on indicators that are directly tied to food 
 2. **Fertilizer Consumption**: This visualization highlights the use of fertilizers, measured in kilograms per hectare, which is a critical factor for crop yield and food production.
 
 ### Fertilizer production
-![Screenshot 2024-11-08 at 4 15 52 PM](https://github.com/user-attachments/assets/e3dc0ed5-769f-4dce-9181-8c050ef20441)
+![FDI](frontend/public/images/fdi.png)
 
 ## Debt Indicators
 
 Debt metrics are crucial for understanding a country's financial health and its ability to maintain sustainable food security. The "Debt" section provides data on total reserves, debt service as a percentage of GNI, and other financial reserves, including gold.
 
-![Screenshot 2024-11-08 at 4 17 12 PM](https://github.com/user-attachments/assets/12ba21cf-c331-4852-aa9f-e221e17790cf)
+![debt](frontend/public/images/debt.png)
 
 
 ### Key Features:
@@ -84,7 +84,7 @@ Debt metrics are crucial for understanding a country's financial health and its 
 2. **Debt Service**: Debt service as a percentage of GNI reflects the portion of income dedicated to debt repayment, impacting a country’s financial flexibility for investing in food security.
 
 ### Total reserves and Debt Service
-![Screenshot 2024-11-08 at 4 18 18 PM](https://github.com/user-attachments/assets/f2ce2e11-4482-4d1a-8876-6e69c5fca142)
+![reserves](frontend/public/images/reserves.png)
 
 
 ## Imports and Food Security
